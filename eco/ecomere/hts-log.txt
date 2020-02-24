@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 24 Feb 2020 09:54:23 at https://kute-themes.com/html/boutique/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kute-themes.com/html/boutique/ -O1 "C:\My Web Sites\ecomere" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:54:24	Warning: 	Moved Temporarily for https://kute-themes.com/robots.txt
+09:54:24	Warning: 	File has moved from https://kute-themes.com/robots.txt to https://kutethemes.com
+09:55:04	Warning: 	Moved Temporarily for kute-themes.com/robots.txt
+09:55:04	Warning: 	File has moved from kute-themes.com/robots.txt to https://kutethemes.com
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 minutes 52 seconds : 507 links scanned, 505 files written (46667803 bytes overall) [46794129 bytes received at 26112 bytes/sec], 1.8 requests per connection
+(No errors, 4 warnings, 0 messages)
